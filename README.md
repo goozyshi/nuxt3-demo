@@ -6,12 +6,12 @@
  > [【Github Pages】](https://goozyshi.github.io/nuxt3-demo/)
 
 ### Home
- ![xx]('https://raw.githubusercontent.com/goozyshi/nuxt3-demo/main/docs/home.png')
+![](https://raw.githubusercontent.com/goozyshi/nuxt3-demo/main/docs/home.png)
 ### ProductList
- ![xx]('https://raw.githubusercontent.com/goozyshi/nuxt3-demo/main/docs/products.png')
+ ![](https://raw.githubusercontent.com/goozyshi/nuxt3-demo/main/docs/products.png)
 
 ### Product Details
- ![xx]('https://raw.githubusercontent.com/goozyshi/nuxt3-demo/main/docs/productdetail.png')
+ ![](https://raw.githubusercontent.com/goozyshi/nuxt3-demo/main/docs/productdetail.png)
 
 ## TODO
 
