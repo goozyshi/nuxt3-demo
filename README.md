@@ -1,17 +1,17 @@
 # nuxt3-demo
- Nuxt3 + TailWindCSS + TypeScript
+ Nuxt3 + Tailwind CSS + TypeScript
 
 
 ## Preivew
  > [【Github Pages】](https://goozyshi.github.io/nuxt3-demo/)
 
 ### Home
- ![]('./docs/home.png')
+ ![xx]('https://raw.githubusercontent.com/goozyshi/nuxt3-demo/main/docs/home.png')
 ### ProductList
-![]('./docs/products.png')
+ ![xx]('https://raw.githubusercontent.com/goozyshi/nuxt3-demo/main/docs/products.png')
 
 ### Product Details
-![]('./docs/productdetail.png')
+ ![xx]('https://raw.githubusercontent.com/goozyshi/nuxt3-demo/main/docs/productdetail.png')
 
 ## TODO
 
