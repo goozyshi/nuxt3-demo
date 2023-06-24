@@ -1,0 +1,1 @@
+import{_ as s,c,o as _,F as a,p as n,d,a as o}from"./entry.3731378c.js";const p={},t=e=>(n("data-v-5e706238"),e=e(),d(),e),r=t(()=>o("h2",null,"Home",-1)),l=t(()=>o("p",null," Lorem ipsum dolor sit amet, consectetur ",-1));function i(e,u){return _(),c(a,null,[r,l],64)}const f=s(p,[["render",i],["__scopeId","data-v-5e706238"]]);export{f as default};
