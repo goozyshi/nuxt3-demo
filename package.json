@@ -2,9 +2,9 @@
   "name": "nuxt-app",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
+    "build": "DEPLOY_ENV=GH_PAGES nuxt build",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
+    "generate": "DEPLOY_ENV=GH_PAGES nuxt generate",
     "preview": "nuxt preview",
     "deploy": "gh-pages --dotfiles -d .output/public",
     "postinstall": "nuxt prepare"

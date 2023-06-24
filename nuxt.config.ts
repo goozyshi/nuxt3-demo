@@ -1,11 +1,12 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+
 export default defineNuxtConfig({
   devtools: { enabled: false },
   modules: ["@nuxtjs/tailwindcss"],
   app: {
-    baseURL: '/nuxt3-demo/',
+    baseURL: process.env.DEPLOY_ENV === 'GH_PAGES' ? '/nuxt3-demo/' : '/',
     head: {
-      title: 'Nuxt3-Shop',
+      title: 'Nuxt3-Demo',
       meta: [
         {
           name: 'description', content: 'this is a nux3 demo'
