@@ -4,8 +4,9 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "generate": "n  uxt generate",
+    "generate": "nuxt generate",
     "preview": "nuxt preview",
+    "deploy": "gh-pages --dotfiles -d .output/public",
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
@@ -14,5 +15,8 @@
     "@types/node": "^18",
     "nuxt": "^3.6.0",
     "typescript": "latest"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
   }
 }

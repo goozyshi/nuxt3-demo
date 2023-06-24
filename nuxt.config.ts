@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   modules: ["@nuxtjs/tailwindcss"],
   app: {
+    baseURL: '/nuxt3-demo/',
     head: {
       title: 'Nuxt3-Shop',
       meta: [
